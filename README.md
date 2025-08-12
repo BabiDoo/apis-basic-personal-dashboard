@@ -44,7 +44,6 @@ The **API Personal Dashboard** integrates several APIs to display:
 
 ## 📂 Project Structure
 ```
-
 📦 api-personal-dashboard
 ┣ 📜 index.html
 ┣ 📜 index.css
